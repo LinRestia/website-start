@@ -7,8 +7,38 @@ div {
     border: 5px solid;
 }
 
+.footer-sec-six, .header-sec-one {
+    background-color: rgba(50,50,50, 50%);
+}
+
 .cta-container {
-    background-color: rgb(40,120,200)
+    background-color: rgb(40,120,200);
+    width:600px;
+}
+
+.body-sec-two {
+    background-color:rgba(50,50,50, 50%);
+}
+
+.body-sec-three {
+    color:rgb(30,60,150);
+}
+
+.body-sec-four {
+    display:flex;
+    text-align:center;
+    background-color:rgb(255,255,255);
+    justify-content:center;
+    align-items:center;
+}
+
+.raiden-quote {
+    background-color: rgba(100,0,170,50%);
+    margin:0;
+    padding:5px;
+}
+.blockquote p {
+    display:inline;
 }
 
 .body-sec-five {
