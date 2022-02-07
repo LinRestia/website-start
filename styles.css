@@ -8,16 +8,25 @@ div {
 }
 
 .footer-sec-six, .header-sec-one {
-    background-color: rgba(50,50,50, 50%);
+    background-color: rgb(50,50,50,50%);
 }
 
+.right-links {
+    display:flex;
+    justify-content:flex-end;
+    gap: 10px;
+}
+
+#raiden-title {
+    color:#6333ae;
+}
 .cta-container {
     background-color: rgb(40,120,200);
     width:600px;
 }
 
 .body-sec-two {
-    background-color:rgba(50,50,50, 50%);
+    background-color:rgba(20,20,20, 60%);
 }
 
 .body-sec-three {
@@ -27,15 +36,26 @@ div {
 .body-sec-four {
     display:flex;
     text-align:center;
+    height:250px;
     background-color:rgb(255,255,255);
     justify-content:center;
     align-items:center;
 }
 
 .raiden-quote {
+    display:flex;
+    flex-direction:column;
+    width:500px;
+    height:245px;
     background-color: rgba(100,0,170,50%);
-    margin:0;
+    margin-bottom:20px;
     padding:5px;
+}
+
+.raiden-cite {
+    display:flex;
+    justify-content:center;
+    flex:2;
 }
 .blockquote p {
     display:inline;
