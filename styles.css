@@ -17,16 +17,58 @@ div {
     gap: 10px;
 }
 
+
+#raiden-image {
+    width:400px;
+    height:700px;
+}
+
 #raiden-title {
+    border: 2px solid;
     color:#6333ae;
+}
+
+#raiden-title-sub {
+    width:400px;
+    margin-left: 30px;
+    color:#6333ae;
+}
+
+.button-1 {
+    background-color: antiquewhite;
+    color: #6333ae;
+    height:50px;
 }
 .cta-container {
     background-color: rgb(40,120,200);
     width:600px;
 }
 
+.title-container {
+    display:flex;
+    flex-direction:column;
+    width:500px;
+    height:700px;
+}
+
+.button-1-con {
+    display:flex;
+    height:200px;
+}
+
+.raiden-img-con {
+    display:flex;
+    border:2px solid;
+    width:600px;
+    background-color: #6333ae;
+    justify-content:center;
+}
 .body-sec-two {
-    background-color:rgba(20,20,20, 60%);
+    display:flex;
+    height:700px;
+    justify-content:center;
+    align-items:center;
+    background-color:rgba(0,0,0, 40%);
 }
 
 .body-sec-three {
