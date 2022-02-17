@@ -97,6 +97,41 @@ div {
     color:rgb(30,60,150);
 }
 
+.narukami {
+    display: flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+
+}
+
+.yashiori {
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+
+.seirai {
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+
+.watatsumi {
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+
+.tsurumi {
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+}
 .body-sec-four {
     display:flex;
     text-align:center;
