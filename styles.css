@@ -130,6 +130,7 @@ div {
 .yashi-text {
     width: 700px;
 }
+
 .seirai {
     display:flex;
     flex-direction:column;
@@ -140,6 +141,7 @@ div {
 .seirai-text {
     width:700px;
 }
+
 .watatsumi {
     display:flex;
     flex-direction:column;
@@ -150,6 +152,7 @@ div {
 .wata-text {
     width:700px;
 }
+
 .tsurumi {
     display:flex;
     flex-direction: column;
@@ -160,6 +163,7 @@ div {
 .tsu-text {
     width:700px;
 }
+
 .body-sec-four {
     border: 3px solid black;
     display:flex;
